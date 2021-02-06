@@ -25,3 +25,5 @@ topic_predictor/.ipynb_checkpoints/Untitled-checkpoint.ipynb
 topic_predictor/__pycache__/kafka_stories.cpython-38.pyc
 presidents_inaugural_speeches_word_embeddings-checkpoint.ipynb
 .ipynb_checkpoints/retrieval_chatbot_exercise_with_bow_intent_classification_and_vectorization_for_entity_recognition-checkpoint.ipynb
+bow_dante/.ipynb_checkpoints/small_bow_and_type_token_ratio_exercise_on_dante-checkpoint.ipynb
+bow_dante/__pycache__/canticas.cpython-38.pyc
